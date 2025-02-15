@@ -1,5 +1,11 @@
 {
     "version": "1.0.3",
     "download_url": "https://github.com/SeuUsuario/SeuRepositorio/releases/latest",
-    "release_notes": "Bug fixes and performance improvements."
+    "release_notes": "Bug fixes and performance improvements.",
+    "changelog": [
+        "🚀 Added new feature: Clash Detection Enhancements",
+        "🔧 Improved performance on large projects",
+        "🐞 Fixed issue with coordinate verification",
+        "📊 Added data tracking for user insights"
+    ]
 }
